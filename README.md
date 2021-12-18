@@ -1,3 +1,5 @@
+[![LICENSE](https://img.shields.io/github/license/Carlosjr5/Data-Analytics.svg?style=flat-square)](https://github.com/Carlosjr5/Data-Analytics/blob/master/LICENSE)
+
 # Data-Analytics
 Data Analytics Coursework SET09120 BY ©arlos Jimenez Rordriguez.
 
